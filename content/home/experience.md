@@ -22,17 +22,20 @@ date_format = "January 2006"
   title = "Research Intern"
   company = "NEC Laboratories America, Inc."
   company_url = ""
-  #location = "California"
+  location = ""
   date_start = "2017-05-01"
   date_end = ""
   description = """Intrusion Detection via Graph Neural Networks."""
-  #Responsibilities include:
-  #
-  #* Analysing
-  #* Modelling
-  #* Deploying
   """
-
+  
+[[experience]]
+  title = "Research Intern"
+  company = "Didi AI LABS"
+  company_url = ""
+  location = ""  
+  date_start = "2017-05-01"
+  date_end = "2017-09-01"
+  description = """User profile mining and recommendation with Sequential Deep Learning."""
 
 
 +++
