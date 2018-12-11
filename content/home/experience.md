@@ -33,13 +33,6 @@ date_format = "January 2006"
   #* Deploying
   """
 
-[[experience]]
-  title = "Research Intern"
-  company = "Didi AI LABS"
-  company_url = ""
-  #location = "California"
-  date_start = "2017-05-01"
-  date_end = "2017-09-01"
-  description = """User profile mining and recommendation with Sequential Deep Learning."""
+
 
 +++
