@@ -21,7 +21,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Research Assistant"
-  company = "Big Data and Social Computing Lab"
+  company = "Big Data and Social Computing Lab at University of Illinois at Chicago"
   company_url = ""
   location = ""
   date_start = "2015-08-01"
@@ -46,5 +46,22 @@ date_format = "January 2006"
   date_end = "2017-09-01"
   #description = """User profile mining and recommendation with Sequential Deep Learning."""
 
+[[experience]]
+  title = "Research Assistant"
+  company = "Machine Learning Group at University of Michigan"
+  company_url = ""
+  location = ""
+  date_start = "2012-09-01"
+  date_end = "2014-09-01"
+  #description = """Deep repreentation learning for computer vision."""
 
+[[experience]]
+  title = "Research Assistant"
+  company = "Vision Lab at University of Michigan"
+  company_url = ""
+  location = ""
+  date_start = "2012-06-01"
+  date_end = "2013-04-01"
+  #description = """Deep repreentation learning for computer vision."""
+  
 +++
