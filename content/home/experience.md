@@ -18,23 +18,33 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Big Data and Social Computing Lab"
+  company_url = ""
+  location = ""
+  date_start = "2015-08-01"
+  date_end = ""
+  #description = """Deep learning from structural data."""
+
 [[experience]]
   title = "Research Intern"
   company = "NEC Laboratories America, Inc."
   company_url = ""
   location = ""
-  date_start = "2017-05-01"
+  date_start = "2018-05-01"
   date_end = ""
-  description = """Intrusion Detection via Graph Neural Networks."""
+  #description = """Intrusion Detection via Graph Neural Networks."""
   
 [[experience]]
   title = "Research Intern"
-  company = "Didi AI LABS"
+  company = "Didi AI Labs"
   company_url = ""
   location = ""  
   date_start = "2017-05-01"
   date_end = "2017-09-01"
-  description = """User profile mining and recommendation with Sequential Deep Learning."""
+  #description = """User profile mining and recommendation with Sequential Deep Learning."""
 
 
 +++
