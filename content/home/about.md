@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "University of Illinois at Chicago"
-  year = Present
+  year = 2019
 
 [[education.courses]]
   course = "MSc in Electrical Engineering: System"
