@@ -26,7 +26,13 @@ weight = 7
   icon_pack = "fab"
   name = "Python"
   description = "100%"
-  
+
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "100%"
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
@@ -34,9 +40,9 @@ weight = 7
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "database"
+  description = "100%"
 
 +++
