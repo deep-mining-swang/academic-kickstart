@@ -26,7 +26,6 @@ date_format = "January 2006"
   date_start = "2017-05-01"
   date_end = ""
   description = """Intrusion Detection via Graph Neural Networks."""
-  """
   
 [[experience]]
   title = "Research Intern"
