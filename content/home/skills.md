@@ -21,28 +21,28 @@ weight = 7
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "100%"
+#[[feature]]
+#  icon = "python"
+#  icon_pack = "fab"
+#  name = "Python"
+#  description = "100%"
 
-[[feature]]
-  icon = "java"
-  icon_pack = "fab"
-  name = "Java"
-  description = "100%"
+#[[feature]]
+#  icon = "java"
+#  icon_pack = "fab"
+#  name = "Java"
+#  description = "100%"
 
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+#[[feature]]
+#  icon = "chart-line"
+#  icon_pack = "fas"
+#  name = "Statistics"
+#  description = "100%"  
   
-[[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "SQL"
-  description = "100%"
+#[[feature]]
+#  icon = "database"
+#  icon_pack = "fas"
+#  name = "SQL"
+#  description = "100%"
 
 +++
