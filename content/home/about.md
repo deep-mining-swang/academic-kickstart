@@ -25,7 +25,7 @@ weight = 5
 [[education.courses]]
   course = "MSc in Electrical Engineering: System"
   institution = "University of Michigan at Ann Arbor"
-  year = 2013
+  year = 2014
 
 [[education.courses]]
   course = "BEng in Electronic Engineering"
