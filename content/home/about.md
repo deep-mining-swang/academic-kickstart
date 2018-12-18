@@ -28,7 +28,7 @@ weight = 5
   year = 2014
 
 [[education.courses]]
-  course = "BEng in Electronic Engineering"
+  course = "BEng in Electronic Engineering(Second Degree)"
   institution = "University of Essex"
   year = 2011
 
