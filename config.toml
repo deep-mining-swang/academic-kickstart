@@ -59,7 +59,7 @@ enableGitInfo = false
   organizations = [ { name = "BDSC Lab", url = "https://bdsc.lab.uic.edu/people.html" },{ name = "University of Illinois at Chicago", url = "https://www.uic.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "IMG-4657.JPG"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "IMG_8610.JPG"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "swang224@uic.edu"
